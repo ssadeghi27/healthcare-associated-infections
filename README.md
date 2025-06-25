@@ -8,7 +8,7 @@ The Healthcare-Associated Infection (HAI) measures are created by Centers for Di
 ### Project Questions
 *	How problematic are healthcare-associated infections at hospitals in California compared to the national benchmark? 
 	Specifically, regarding infections that are acquired by patients in hospitals, what percentage of California hospitals are considered no different than the national benchmark, better than the national benchmark, and worse than the national benchmark based on the Centers for Medicare & Medicaid Services data?
-*	Across California hospitals which type(s) of infection was associated with the highest number of cases performing worse than the national benchmark?
+*	Across California hospitals which type of infection was associated with the highest number of cases performing worse than the national benchmark?
 *	What are recommendations to hospitals based on trends regarding healthcare-associated infections?
 
 ## Results
