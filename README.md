@@ -14,7 +14,7 @@ The Healthcare-Associated Infection (HAI) measures are created by Centers for Di
 ## Results
 Hospital data were collected from July 1, 2023 to June 30, 2024. The published dataset from Centers for Medicare & Medicaid Services (CMS) was cleaned and analyzed using Excel. The data were filtered to focus exclusively on hospitals in California. The graphs below feature the number of California hospitals and how they compare to the national benchmark based on the type of infections that patients acquire in hospitals. 
 
-<img src = "images/Bar_graph_Central_Line_Associated_Bloodstream_Infection.png" width = 500> <img src = "images/Bar_graph_Central_Line_Associated_Bloodstream_Infection.png" width = 500>
+<img src = "images/Bar_charts_combined.png"> 
 
  
 
