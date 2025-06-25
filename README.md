@@ -12,13 +12,17 @@ The Healthcare-Associated Infection (HAI) measures are created by Centers for Di
 *	What are recommendations to hospitals based on trends regarding healthcare-associated infections?
 
 ## Results
-Hospital data were collected from July 1, 2023 to June 30, 2024. The published dataset from Centers for Medicare & Medicaid Services (CMS) was cleaned and analyzed using Excel. The data were filtered to focus exclusively on hospitals in California. The graphs below feature the number of California hospitals and how they compare to the national benchmark based on the type of infections that patients acquire in hospitals. 
+Hospital data were collected from July 1, 2023 to June 30, 2024. The published dataset, containing 171,253 rows from Centers for Medicare & Medicaid Services (CMS), was cleaned and analyzed using Excel. The data were filtered to focus exclusively on hospitals in California, leaving a dataset of 12,169 rows to analyze.
+ 
+The pie chart below depicts the performance of hospitals in California on measures of health-care associated infections classified into 3 categories: 1) the percentage of hospitals that scored better than the National Benchmark on at least 1 or more areas of infection type, 2) the percentage of hospitals that scored no different than the National Benchmark on at least 1 or more areas of infection type, and 3) the percentage of hospitals that scored worse than the National Benchmark on at least 1 or more areas of infection type.
 
 
 
 <div align = "center"> 
 	<img src = "images/Pie_Chart_2.png" width = 600> 
 </div>
+
+The bar graphs below feature the number of California hospitals and how they compare to the national benchmark based on the type of infections that patients acquire in hospitals. 
 
  
 <img src = "images/Bar_charts_combined.png"> 
