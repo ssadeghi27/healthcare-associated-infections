@@ -17,7 +17,7 @@ Hospital data were collected from July 1, 2023 to June 30, 2024. The published d
 
 
 <div align = "center"> 
-	<img src = "images/Pie_chart_7.png" width = 600> 
+	<img src = "images/Pie_Chart_2.png" width = 600> 
 </div>
 
  
