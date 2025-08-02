@@ -1,8 +1,10 @@
 # Data Analytics Project: Healthcare-Associated Infections
+
+## Introduction
 The goal of this project is to study healthcare associated infections at hospitals in California based on a dataset published by the Centers for Medicare & Medicaid Services (CMS). 
 The Healthcare-Associated Infection (HAI) measures are created by Centers for Disease Control and Prevention (CDC). Data was collected nationally by the National Healthcare Safety Network (NHSN), that aims to collect data to identify problems, support prevention efforts, and eventually eradicate infections that are acquired by patients in hospitals (https://www.cdc.gov/nhsn/index.html).  
 
-### Project Questions
+## Project Questions
 *	How problematic are healthcare-associated infections at hospitals in California compared to the national benchmark? 
 	Specifically, regarding infections that are acquired by patients in hospitals, what percentage of California hospitals are considered no different than the national benchmark, better than the national benchmark, and worse than the national benchmark based on the Centers for Medicare & Medicaid Services data?
 *	Across California hospitals which type of infection was associated with the highest number of cases performing worse than the national benchmark?
